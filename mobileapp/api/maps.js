@@ -1,6 +1,6 @@
 import { mapsClient } from './index';
 
-const GOOGLE_MAPS_API_KEY = "AIzaSyAFrF_D0WsbMpx6_Bx1qxhDavzAYYUdzPE";
+const GOOGLE_MAPS_API_KEY = "AIzaSydzPE";
 
 export const getDirections = async (origin, destination) => {
   try {
